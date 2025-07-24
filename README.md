@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello there, I'm Aadi (Aditya Kumar)
 
-<!--
-**aditya-kumar2048/aditya-kumar2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE @ Roorkee Institute of Technology  
+🌱 Currently learning: React.js, GitHub, Open Source  
+🔭 Recent Projects:  
+- 🔢 [Calculator App](https://github.com/aditya-kumar2048/calculator) – Built using HTML, CSS, JS  
+- 🎯 [Landing Page](https://github.com/aditya-kumar2048/landing-page) – Responsive and interactive  
 
-Here are some ideas to get you started:
+🛡 NCC Cadet | 💬 Always open to learning & collaboration  
+📫 How to reach me:  
+- LinkedIn: [aditya-kumar](https://www.linkedin.com/in/aditya-kumar-629617376/)
+- Email: aditayrajsingh2048@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ "Striving to improve every day."  
+---
