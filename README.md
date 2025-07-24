@@ -4,7 +4,7 @@
 🌱 Currently learning: React.js, GitHub, Open Source  
 🔭 Recent Projects:  
 - 🔢 [Calculator App](https://github.com/aditya-kumar2048/CODSOFT/tree/main/CODSOFT/LEVEL%201/TASK3/CALCULATOR) – Built using HTML, CSS, JS  
-- 🎯 [Landing Page](https://github.com/aditya-kumar2048/landing-page) – Responsive and interactive  
+- 🎯 [Landing Page](https://github.com/aditya-kumar2048/CODSOFT/tree/main/CODSOFT/LEVEL%201/TASK2/LANDING%20PAGE) – Responsive and interactive  
 
 🛡 NCC Cadet | 💬 Always open to learning & collaboration  
 📫 How to reach me:  
